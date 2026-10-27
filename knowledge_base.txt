@@ -1,0 +1,700 @@
+=====PAGE=====
+Order Tracking
+Source: https://www.shipaid.com/blog/how-do-i-track-my-order-on-shopify-a-comprehensive-guide-for-e-commerce-merchants
+News
+
+How Do I Track My Order on Shopify? A Comprehensive Guide for E-commerce Merchants
+
+Learn how do I track my order on Shopify with our comprehensive guide! Enhance customer satisfaction with real-time updates and order management tips.
+
+13 JAN 26
+
+7 Min
+
+Table of Contents
+
+Introduction
+
+Understanding Shopify's Order Tracking Mechanisms
+
+Setting Up Order Tracking on Shopify
+
+Enhancing Order Visibility with Real-Time Notifications
+
+Implementing a Custom Order Status Page
+
+Utilizing ShipAid’s Shipping Protection Solutions
+
+Conclusion
+
+FAQs
+
+Introduction
+
+Did you know that 70% of consumers expect real-time updates on their order status? In the world of e-commerce, keeping customers informed about their purchases is no longer just a nice-to-have; it's a necessity. As merchants on the Shopify platform, understanding how to effectively track orders can significantly enhance customer satisfaction and trust. If you’re asking, “How do I track my order on Shopify?”, you’re not alone. This guide aims to provide you with clear, actionable insights on tracking orders, ensuring that every package matters in your business.
+
+At ShipAid, we believe that robust shipping protection is key to both customer satisfaction and business revenue. We empower e-commerce merchants by offering innovative tools that not only safeguard shipments but also convert potential losses into profit opportunities. By the end of this post, you'll learn how to utilize Shopify's tracking features, implement best practices for order management, and explore how our shipping protection solutions can further enhance your customer experience.
+
+We will cover the following topics:
+
+Understanding Shopify's Order Tracking Mechanisms
+
+Setting Up Order Tracking on Shopify
+
+Enhancing Order Visibility with Real-Time Notifications
+
+Implementing a Custom Order Status Page
+
+Utilizing ShipAid’s Shipping Protection Solutions
+
+Conclusion and FAQs
+
+Let’s dive into the world of order tracking and discover how it can transform your e-commerce operations.
+
+Understanding Shopify's Order Tracking Mechanisms
+
+When a customer places an order on a Shopify store, several processes kick into action. Shopify provides built-in order tracking functionalities that allow both merchants and customers to keep tabs on order statuses. It’s essential to understand how these mechanisms work to ensure a smooth order fulfillment experience.
+
+The Order Status Page
+
+Every order on Shopify is linked to a unique order status page. This page is where customers can find real-time updates about their order. It typically includes information such as:
+
+Order Number
+: A unique identifier for the order.
+
+Order Details
+: Items purchased, prices, and shipping information.
+
+Current Status
+: Updates on whether the order is being processed, shipped, or delivered.
+
+Estimated Delivery Date
+: A projection of when the order will arrive.
+
+By default, Shopify provides a generic order status page that is functional but may not reflect your brand’s identity. Customizing this page can enhance the customer experience, and we will discuss how to do that later in this guide.
+
+Shipping Carrier Integration
+
+Shopify allows merchants to integrate with various shipping carriers such as USPS, FedEx, and UPS. This integration enables real-time updates to be pulled directly from the carrier’s tracking system, providing customers with the most accurate information about their shipment’s location.
+
+Setting Up Order Tracking on Shopify
+
+Setting up order tracking on Shopify is straightforward and can be accomplished in a few simple steps. Here’s how you can do it:
+
+Step 1: Enable Shipping Carrier Integration
+
+Access your Shopify Admin panel
+: Log in to your Shopify account.
+
+Navigate to Settings
+: Click on the gear icon in the lower left corner.
+
+Select Shipping and delivery
+: Here, you’ll see options to manage your shipping settings.
+
+Add Shipping Carrier
+: Click on “Manage Rates” and then “Add Carrier” to select your preferred shipping carrier.
+
+By integrating a shipping carrier, you enable the automatic updating of tracking information directly into your Shopify store.
+
+Step 2: Notify Customers of Shipping Updates
+
+Once an order is shipped, it's crucial to keep customers informed. Shopify allows you to automate email notifications for order updates. To set this up:
+
+Go to Settings
+: Click on Notifications in your Shopify Admin panel.
+
+Customize Email Templates
+: Edit the templates for shipping notifications to include tracking information.
+
+Automating these notifications not only saves time but also reduces the number of customer inquiries about order statuses, allowing you to focus on other aspects of your business.
+
+Step 3: Provide Access to the Order Status Page
+
+Make sure that your customers know how to access their order status page. This can be done by including links to the order status page in:
+
+Order confirmation emails
+
+Shipping confirmation emails
+
+Your website’s main navigation or footer
+
+By making it easy for customers to find their tracking information, you enhance their experience and build trust.
+
+Enhancing Order Visibility with Real-Time Notifications
+
+In the age of online shopping, customer expectations have soared. Customers want to know where their orders are at every step of the shipping process. To meet these expectations, we can utilize real-time notifications effectively.
+
+Automated Order Updates
+
+Implementing automated order updates can dramatically improve the customer experience. By sending notifications at key stages of the order fulfillment process, such as when an order is shipped, out for delivery, or delivered, you keep customers informed and engaged. 
+
+Best Practices for Notifications
+
+Timing
+: Send notifications at crucial points in the delivery process. For instance, notify customers when their package is shipped and again when it is out for delivery.
+
+Clarity
+: Ensure notifications are clear and contain essential information, such as tracking numbers and links to the or
+
+=====PAGE=====
+Order Tracking
+Source: https://www.eesel.ai/blog/ecommerce-faq-examples
+All posts
+Blog
+ / 
+Guides
+Ecommerce FAQ examples: 40+ questions and answers that resolve
+Written by
+Riellvriany Indriawan
+Reviewed by
+Katelin Teen
+Last edited
+
+October 5, 2026
+Expert Verified
+TL;DR
+
+If you run an online store, the same handful of questions eat most of your support time: where's my order, how do I return this, why was my card declined, does this run true to size. A good FAQ page answers those before a customer ever opens a ticket.
+
+This guide gives you 
+copy-ready ecommerce FAQ examples by category
+ (shipping, returns, payments, orders, products, accounts), the four-part shape that makes an answer actually resolve instead of trigger a follow-up, and how to keep the whole thing from going stale. If you'd rather the questions get answered automatically, an 
+AI ecommerce agent
+ can read this exact FAQ content plus your live order data and handle the repetitive stuff round the clock.
+
+The questions your customers actually ask
+
+I work the support queue, so I'll be blunt about where the volume comes from. Across the stores I've watched, one call from an operator stuck with me: a 
+multi-brand ecommerce operator
+ handling 500+ tickets a day told us their inbox was basically the same three things on repeat, refund requests, unsubscribes, and order tracking. That's not a quirk of one store. 
+WISMO ("where is my order?") almost always tops the list
+, with returns and refunds right behind it.
+
+Bar chart ranking the most common ecommerce support questions, with "where is my order?" the longest bar
+
+The practical takeaway: don't build your FAQ page by brainstorming questions in a meeting. Pull your last couple hundred tickets, group them, and let the biggest groups decide what goes on the page. The categories below are the ones that show up in nearly every store's inbox, so they're a safe starting skeleton, but your own 
+customer service metrics
+ should tune the priority order.
+
+What a good FAQ answer looks like
+
+Before the examples, the shape. A weak FAQ answer restates the question and links to a policy page. A strong one ends the conversation. After reading a lot of them, I've landed on four parts, in this order:
+
+Diagram showing the four parts of a resolving FAQ answer: direct answer, exact steps, a link, and when to reach a human
+
+The direct answer first.
+ Yes/no, or the actual number. "Refunds land in 5 to 7 business days." Don't make the reader dig.
+
+The exact steps.
+ If there's an action, spell it out. Numbered, short.
+
+A link to the source of truth.
+ The returns policy, the tracking page, the sizing chart. One link, on the noun.
+
+When to reach a human.
+ A quiet escape hatch for the edge cases so people don't rage-refresh.
+
+This shape matters double if you plan to put an 
+AI customer service chatbot
+ on top of the page later, because the bot can only be as clear as the content it learns from. Vague FAQ in, vague bot out.
+
+Now the examples. Steal them, then swap in your real policies, timeframes, and voice.
+
+Shipping and delivery FAQ examples
+
+This is your highest-volume category, so make these airtight. Every answer here should point at real, current numbers.
+
+Question
+Example answer
+Where is my order?
+Once your order ships you'll get a tracking link by email and SMS. You can also check status anytime in 
+Your account → Orders
+. Most domestic orders arrive in 3 to 5 business days after dispatch. If tracking hasn't updated in 48 hours, reply here and we'll chase the carrier.
+How much does shipping cost?
+Standard shipping is $4.95, or free on orders over $50. Express (1 to 2 business days) is $12.95. Exact cost shows at checkout before you pay.
+Do you ship internationally?
+Yes, to 40+ countries. International orders take 7 to 14 business days and any customs duties are the buyer's responsibility. Enter your address at checkout to see live rates.
+My tracking says delivered but I don't have it.
+Sorry about that. First check with neighbors and around your building, and give it 24 hours (carriers sometimes scan early). Still missing? Reply with your order number and we'll open a claim.
+Can I change my shipping address after ordering?
+If the order hasn't shipped yet, yes, message us fast with your order number. Once it's with the carrier we can't reroute it, but we'll help you recover it.
+
+Notice the WISMO answer does three jobs: sets the expectation (3 to 5 days), gives a self-serve path (account page), and offers the human hatch. That combination is what stops the "any update?" follow-up. For a deeper look at handling this channel by channel, the 
+Shopify customer service strategies
+ guide is a good companion read.
+
+Returns, refunds, and exchanges FAQ examples
+
+The second-biggest category, and the one where fuzzy wording costs you the most in follow-ups. Be specific about windows, condition, and who pays return shipping.
+
+Question
+Example answer
+What is your return policy?
+You have 30 days from delivery to return unworn items in original packaging with tags. Start a return in 
+Your account → Orders → Return
+, print the prepaid label, and drop it off. Full policy [here].
+How long do refunds take?
+Once we receive and inspect your return (usually 2 to 3 business days), we issue the refund to your original payment method. It then takes 5 to 7 business days to appear, depending on your bank.
+Do I have to pay for return shipping?
+Returns are free for defective or wrong items. For change-of-mind returns, a $5 label fee is deducted from your refund.
+Can I exchange for a different size instead of a refund?
+Yes. Choose "Exchange" when you start your return and pick the new size. We ship the replacement as soon as your return is scanned by the carrier, so you're not waiting twice.
+My item arrived damaged. What do I do?
+We're sorry. Send a photo and your order number and we'll ship a replacement or refund you immediately, no return needed.
+
+That exchange answer is worth a second look. Refund-versus-exchange intent is one of the trickiest things to route, and it's exactly the kind of nuance a mo
+
+=====PAGE=====
+Returns and Refunds
+Source: https://usource.me/top-20-most-commonly-asked-ecommerce-customer-service-queries/
+Top 20 Most Commonly Asked Ecommerce Customer Service Queries
+
+Mar 1, 2023
+
+ by 
+USAdmin
+
+24/7 Digital Support & Ecommerce
+
+What is an Ecommerce FAQ page?
+
+Your FAQ page, or “Frequently Asked Questions” page, is one of your eCommerce store’s most underappreciated functions. Building trust and making clients feel at ease while making their purchase is, as we all know and some businesses had to learn the hard way, a crucial component of ecommerce.
+
+What then makes a FAQ so valuable?
+
+Consumers anticipate a reply to their question from brands in under two hours; much longer and you lose their confidence in you. You can prepare solutions for this like a LiveChat, a responsive helpdesk/email system, or at least comprehensive responses in a chatbot.
+
+The next line of defense is your eCommerce site’s FAQ.
+
+In the FAQs, you can openly address the usual concerns or pressing inquiries that your potential clients may have before making a purchase.
+
+Do you need to build a knowledge base of commonly asked customer service questions? If yes, here’s a go-to list of commonly asked questions for 
+ecommerce customer support.
+ Sure, there are business specific questions, but this will help you form the core of your Questions & Answers for your 
+customer support team.
+
+Top 20 Most Commonly Asked Ecommerce Customer Service Queries
+
+If you’re using 
+Zendesk
+, 
+Freshdesk
+, 
+Gorgias
+, or any other ticketing system, these responses are essential for delivering fast and effective customer support.
+
+1. Order tracking
+
+It’s possible for some customers to encounter issues with spam filters, inputting incorrect email addresses. In these cases, they may be confused where their order confirmation is, or they may simply want to know how they can track their orders. To assist customers in navigating these issues, provide clear instructions and expectations within the Order Tracking FAQ section.
+
+For instance, advise your customers to check their spam folders for Order Confirmation emails or provide the helpdesk email address if they require further assistance with their order. Additionally, provide the primary link for tracking orders with the courier and guide customers on where to locate their tracking number for entering it into the courier’s website.
+
+2. Order cancellation/change
+
+Your customers should be informed that they can typically cancel or change an order within a certain timeframe by contacting customer service via phone, email, or chat.
+
+These should include instructions on how to cancel or change an order, including any time limits or fees that may apply.
+
+They should also be advised to have their order number and any relevant information ready when making the request. It may also be helpful to provide information on any policies related to refunds or exchanges for canceled or changed orders, as well as any exceptions or restrictions that apply.
+
+Your helpdesk should have access to order information so all your agents can immediately discern eligibility for cancellations/exchange. The same applies for returns.
+
+3. Return policies
+
+For product returns, include information about the process for returning items, including any deadlines or restrictions on returns, and any requirements for the condition of the item being returned.
+
+Also disclose how refunds will be processed, and whether they will be issued in the form of store credit or refunded to the original payment method.
+
+Clear instructions on how customers can initiate a return, including contact information for customer service and any required documentation or forms must also be present. Finally, address any frequently asked questions or concerns that customers may have, such as whether shipping costs will be refunded, or whether exchanges are available as an alternative to returns.
+
+4. Product refunds
+
+Information on the refund process, such as how to initiate a refund, the timeframe for requesting a refund, and any requirements or conditions that must be met for a refund to be granted should be included in your business’ product refund pages.
+
+It should also address common questions customers may have, such as whether shipping costs will be refunded and how long it takes for a refund to be processed.
+
+To request a refund, inform your customers that they should follow the instructions provided by the company, which may include filling out a form, contacting customer support, or returning the product to a specific address.
+
+5. Item exchange
+
+When a customer wants to return an item they’ve bought, the terms and conditions should be outlined in an item exchange policy.
+
+First, state the terms of an item exchange. The time period during which an exchange is permitted, any limitations on the kinds of products that can be swapped, and any requirements that an item must satisfy to be eligible for an exchange are a few examples of this.
+
+Describe the exchange procedure, including whether your customer must call customer care or merely return the item to a store.
+
+The policy should also specify the different kinds of exchanges that are offered. This could entail exchanging an item for a different size or color, swapping for a different good of similar or lower value, or getting shop credit rather than a straight exchange.
+
+Any costs connected with an exchange, such as restocking fees or shipping costs, should also be specified in the policy.
+
+Your customers will have a better awareness of their options and feel more confident in their purchasing decisions if there are clear rules for item exchanges.
+
+6. Shipping options and costs
+
+A number of variables, including the package’s weight and size, the shipment location, and the shipping method chosen, should be taken into account when developing shipping alternatives and cost policies.
+
+You should first choose the shipping companies you’ll work with before outlining the options and their associated charges.
+
+You could decide to provide standard shipping, fast shipping, or international shipping, all of which have
+
+=====PAGE=====
+Account Access
+Source: https://support.microsoft.com/en-us/help/4026971/microsoft-account-how-to-reset-your-password
+Reset a forgotten Microsoft account password
+
+Applies To
+Microsoft account
+
+Microsoft account dashboard
+
+Get help with Copilot
+
+ How do I verify identity for Microsoft account recovery?
+
+ What if I can't change or reset local account password?
+
+ Can I get a Microsoft account verification code?
+
+Note
+
+If you know your password but just want to change it, go to 
+account.microsoft.com/security 
+ and select 
+Change password
+.
+
+If you know your username and password but they have stopped working, read 
+My username and password have stopped working
+.
+
+Step 1: Select 'Forgot password?' on the Microsoft account sign-in page
+
+If the "Enter password" window is still open select 
+Forgotten your password?
+
+If not, select Reset password below, enter the username name for the account you're trying to reset, and select 
+Next
+.
+
+Reset password
+
+Step 2: Verify your identity for Microsoft account recovery
+
+For your protection, Microsoft must verify your identity before you can proceed with resetting your password.
+
+Choose how you want to receive a verification code.
+
+Important
+
+If you don't see an option for where to send a code, or you no longer have access to any of the verification options shown, use this 
+sign-in helper tool
+.
+
+If you don't recognize any of the verification email or phone options, use this 
+sign-in helper tool
+.
+
+Select 
+Next
+.
+
+Step 3: Get a Microsoft account verification code
+
+For your protection, we will ask you to confirm the verification details you select. If you cannot get a code, read 
+Troubleshooting verification code issues
+.
+
+Retype the first part of the email address or the last four digits of the phone number hinted at in the previous window.
+
+Select 
+Get code
+.
+
+Microsoft will send a verification code to the email or phone number you selected.
+
+Go to the recovery phone or email for where you expect to receive the code.
+
+Step 4: Enter the verification code and reset your Microsoft account password
+
+Confirm the code to create a new password. Learn 
+how to create a strong password
+.
+
+Paste or type the code you received and select 
+Next
+.
+
+Type your new password and select 
+Next
+.
+
+See also
+
+If these steps didn't work, or you have other account sign in issues, use our 
+Sign-in helper tool
+.
+
+Microsoft account security info & verification codes
+
+How to help keep your Microsoft account safe and secure
+
+Change or reset your Windows password
+
+Accessing the account of someone who has died
+
+Need more help?
+
+Can't sign in?
+
+If you can't sign into your Microsoft account, most issues can be identified by our sign-in helper tool.
+
+Sign-in helper
+
+Contact Support
+
+For technical support, go to 
+Contact Microsoft Support
+, enter your problem and select 
+Get Help
+. If you still need help, select 
+Contact Support
+ to be routed to the best support option.
+
+Important
+
+To protect your account and its contents, our support agents are not allowed to send password reset links, or access and change account details.
+
+=====PAGE=====
+Account Access
+Source: https://www.fittingbox.com/en/resources/help-center/how-do-i-change-my-password
+How to reset my password ?
+
+If you forgot your password, the easiest way to reset it is to visit the "forgot password" page. If that doesn't work for you, you can try a few other steps.
+
+How to reset your password from the sign in page
+
+Open the platform in your web browser
+
+Click 
+Forgot your password?
+
+Enter the email address you used to create the account
+
+Check your email inbox and click the link in the email you received to reset your password
+
+You don't remember what email address you used, or don't have access to it? 
+
+Please contact our support team to recover the email address used for registering in our system.
+
+Not receiving the password reset email? 
+
+If you didn't receive the reset email:
+
+Check your inbox spam folder 
+
+If the reset email isn't there, try adding 
+no-reply@verificationemail.com
+ as a contact to your address book, and then resend the password reset email
+
+If that still doesn't work, contact our support
+
+I've tried everything, but I still can't reset my password
+
+If you've tried each of the troubleshooting steps above and you're still not receiving the password reset email, please contact our support.
+
+Click here to see how to log in to your account.
+
+=====PAGE=====
+Billing and Payments
+Source: https://help.nordlayer.com/docs/i-have-been-charged-twice.md
+---
+title: "I have been charged twice"
+slug: "i-have-been-charged-twice"
+updated: 2026-09-09T09:05:20Z
+published: 2026-09-09T09:05:20Z
+canonical: "help.nordlayer.com/i-have-been-charged-twice"
+---
+
+> ## Documentation Index
+> Fetch the complete documentation index at: https://help.nordlayer.com/llms.txt
+> Use this file to discover all available pages before exploring further.
+
+# I have been charged twice
+
+If you suspect wrongful double billing, please reach out to your dedicated Account Manager or our customer support and provide the following information:
+
+- **Payment** **type** (credit card, direct bank transfer)
+- **Payment** **dates**
+- **Amounts** **charged**
+
+In some cases, we may ask you to send us a proof of payment to locate the transaction.
+
+---
+
+**Note**: In case you have any questions or issues, press '**Chat with support**' at the bottom of the page.
+
+=====PAGE=====
+Billing and Payments
+Source: https://help.letsdothis.com/en/articles/10546731-what-to-do-if-you-have-been-charged-twice
+If you notice two charges for the same booking on your bank statement, don't worry—this can happen for several reasons. This article explains why you may see duplicate charges and what steps to take to resolve the issue.
+​
+​
+Why Have I Been Charged Twice?
+
+There are a few common reasons why you may see duplicate charges on your account:
+Pending Transactions:
+ Some banks temporarily hold funds during payment processing. If the payment is unsuccessful, the pending charge should disappear automatically within a few days.
+Multiple Booking Attempts:
+ If you refreshed the page or submitted your payment details multiple times, it may have resulted in duplicate charges.
+Pre-Authorization Holds:
+ Some banks place a temporary hold on funds, which may appear as an additional charge. These typically resolve on their own.
+Bank Processing Delays:
+ Occasionally, banks process a single transaction as two separate charges. This usually corrects itself within a few business days.
+
+How to Resolve a Duplicate Charge
+If you have been charged twice, follow these steps:
+Check Your Bank Statement:
+ Confirm whether the second charge is still pending or if both charges have been fully processed.
+Wait a Few Business Days:
+ Pending charges typically disappear within 3–5 business days.
+Contact Your Bank:
+ If both charges remain after a few days, reach out to your bank to confirm whether one is a pre-authorization hold.
+Reach Out to Us:
+ If your bank confirms both charges have been processed, contact our support team with proof of the duplicate charge.
+FAQs:
+How long do pending charges take to disappear?
+Pending charges usually resolve within 3–5 business days, depending on your bank.
+​
+What information should I provide when contacting support?
+Please share your booking confirmation, the last four digits of your payment card, and a screenshot of the duplicate charge.
+Still need help?
+If you still need assistance, click on the messenger in the bottom right corner of the screen to contact our support team. We're happy to help!
+Related Articles
+What to Do If You Miss a Payment on Your Plan
+Why Has My Payment Failed?
+
+=====PAGE=====
+Billing and Payments
+Source: https://help.cathopic.com/help-troubleshooting/i-was-charged-twice/
+If you see duplicate charges on your account, here is what might have happened and how to resolve it.
+
+Common causes of duplicate charges
+
+Pending vs. Posted transactions
+
+Your bank may show a pending authorization and the actual charge separately
+
+Pending charges typically disappear within 3-7 business days
+
+Only one charge will actually be processed
+
+Check your statement after a few days to verify
+
+Failed payment retry
+
+If a payment initially failed, the system may have retried it
+
+This can create a temporary pending charge
+
+Only successful charges are actually processed
+
+Multiple active subscriptions
+
+You may have created multiple accounts with different emails
+
+Each account with an active subscription will be charged separately
+
+Check if you have multiple Cathopic accounts
+
+Subscription change during billing cycle
+
+If you changed your plan mid-cycle, you might see both charges
+
+Prorated amounts are calculated automatically
+
+Any overpayment is credited to your account
+
+How to verify your charges
+
+Go to 
+Settings → Invoices
+
+Check your billing history
+
+Download your invoices for your records
+
+Compare with your bank statement
+
+Each invoice shows:
+
+Date of charge
+
+Amount charged
+
+Payment method used
+
+Transaction ID
+
+Confirmed duplicate charge?
+
+If you have verified that you were actually charged twice for the same period:
+
+Note the transaction dates and amounts
+
+Download both invoices from 
+Settings → Invoices
+
+Visit our 
+support page
+
+Select "Report a problem"
+
+Explain that you were charged twice
+
+Include the transaction IDs and invoice numbers
+
+What to expect
+
+Once you report a duplicate charge:
+
+Our team will investigate within 1-2 business days
+
+If confirmed, a refund will be processed
+
+Refunds typically take 5-10 business days to appear in your account
+
+You will receive an email confirmation when the refund is issued
+
+We take billing accuracy seriously and will resolve any genuine duplicate charges promptly.
+Was this article helpful?
+😞
+😐
+😊
+
+=====PAGE=====
+Store Help Center FAQ
+Source: built-in
+Order Tracking
+You can follow your shipment from the Orders section of your account. Once an order has been dispatched, a tracking link appears next to it. If the tracking status has not changed for more than 48 hours, contact support and quote your order reference. The assistant cannot see live order status.
+
+Order Cancellation
+An order can be cancelled from the Orders section as long as it has not been dispatched yet. Open the order and choose Cancel Order. If the order has already shipped, it cannot be cancelled; wait for delivery and start a return instead. Refunds for cancelled orders go back to the original payment method.
+
+Shipping Times and Costs
+Standard delivery usually takes 3 to 7 business days after dispatch, and express delivery 1 to 3 business days. The shipping fee and the estimated delivery date are shown at checkout before you pay. Delivery times can be longer during sales, holidays, or for remote addresses.
+
+Returns and Refunds
+Unused items in their original packaging can be returned within 14 days of delivery. Some items are not eligible for return. To start a return, go to Orders, select the item, and click Return Request. Once the returned item is received and approved, the refund is normally issued to the original payment method within 5 to 7 business days. The assistant cannot approve refunds.
+
+Account Access
+If you are unable to sign in, click Forgot Password on the sign-in page and follow the reset link sent to your email. If the email does not arrive, look in your spam folder and make sure you typed the email address registered on your account. Never share your password or one-time verification code with anyone.
+
+Billing and Payments
+The payment status of an order is shown in its order details. If you think you were charged twice, do not try to pay again. Contact the billing support team with the transaction date and the order reference. Never share your full card number or security code.
+
+Technical Support
+If the website does not load, refresh the page, check your internet connection, and make sure your browser is up to date. If the problem continues, clear the browser cache or open the site in a private window. When contacting support, mention the exact error message and the steps that caused it. Never share passwords or verification codes.
+
+Contact Support
+For anything not covered in this FAQ, contact the support team through the Help section of the website. Give a short description of the issue and the order reference if relevant, but never send passwords, one-time codes, or full payment-card details.
