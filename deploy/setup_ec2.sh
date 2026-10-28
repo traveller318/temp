@@ -17,7 +17,16 @@ fi
 
 echo "==> Installing Docker, Compose and git"
 sudo apt-get update -y
-sudo apt-get install -y docker.io docker-compose-v2 git
+sudo apt-get install -y docker.io git curl
+# Package name differs between Ubuntu releases; fall back to the official binary
+sudo apt-get install -y docker-compose-v2 || true
+if ! sudo docker compose version >/dev/null 2>&1; then
+  sudo mkdir -p /usr/local/lib/docker/cli-plugins
+  sudo curl -fsSL "https://github.com/docker/compose/releases/latest/download/docker-compose-linux-$(uname -m)" \
+    -o /usr/local/lib/docker/cli-plugins/docker-compose
+  sudo chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
+fi
+sudo docker compose version
 sudo systemctl enable --now docker
 sudo usermod -aG docker "$USER"
 
