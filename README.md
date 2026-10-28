@@ -51,6 +51,9 @@ fetch_knowledge_base.py  Re-downloads the public help-center pages into knowledg
 knowledge_base.txt       Knowledge base (scraped help pages + built-in Store Help Center FAQ)
 test_api.py              Offline pytest suite (mock provider, no API key needed)
 .env.example             Config template — copy to .env (which is git-ignored)
+Dockerfile               One image for both services (SERVICE=api or SERVICE=ui)
+docker-compose.yml       Runs API (:8000) + UI (:80) together — used on AWS EC2
+deploy/                  EC2 setup and update scripts — see DEPLOY_AWS.md
 screenshots/             Evidence for the observation table
 ```
 

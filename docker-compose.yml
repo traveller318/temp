@@ -1,0 +1,44 @@
+# Runs the API and the Streamlit UI from the same image on one EC2 host.
+#   UI  -> http://<EC2_PUBLIC_IP>/         (port 80)
+#   API -> http://<EC2_PUBLIC_IP>:8000/docs
+# Secrets come from .env on the server (git-ignored, never baked into the image).
+
+x-logging: &default-logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "3"
+
+services:
+  api:
+    build: .
+    image: rag-assistant:latest
+    environment:
+      SERVICE: api
+      PORT: "8080"
+    env_file: .env
+    ports:
+      - "8000:8080"
+    restart: unless-stopped
+    logging: *default-logging
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health', timeout=3)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 120s
+
+  ui:
+    image: rag-assistant:latest
+    environment:
+      SERVICE: ui
+      PORT: "8080"
+      # Containers reach each other by service name on the compose network
+      API_URL: http://api:8080
+    ports:
+      - "80:8080"
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+    logging: *default-logging

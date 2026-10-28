@@ -18,7 +18,7 @@ ENV HF_HUB_OFFLINE=1
 
 COPY . .
 
-# SERVICE=api (default) runs FastAPI; SERVICE=ui runs Streamlit. Cloud Run sets $PORT.
+# SERVICE=api (default) runs FastAPI; SERVICE=ui runs Streamlit. docker-compose.yml sets both.
 ENV SERVICE=api PORT=8080
-# exec makes the server PID 1 so it receives Cloud Run's SIGTERM on shutdown
+# exec makes the server PID 1 so it receives SIGTERM from docker stop
 CMD ["sh", "-c", "if [ \"$SERVICE\" = \"ui\" ]; then exec streamlit run streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless=true; else exec uvicorn app:app --host 0.0.0.0 --port $PORT; fi"]
